@@ -9,12 +9,7 @@
 
 ## Usage
 
-```sh
-https://freitasbtw.github.io/Password-Generator/
-```
-### 🏠 [Homepage](https://freitasbtw.github.io/Password-Generator/)
-
-### ✨ [Demo](https://freitasbtw.github.io/Password-Generator/)
+### ✨ [Link](https://freitasbtw.github.io/Password-Generator/)
 
 ## Author
 
