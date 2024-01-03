@@ -19,4 +19,4 @@ https://freitasbtw.github.io/Password-Generator/
 
 * Twitter: [@Freitasbtw](https://twitter.com/Freitasbtw)
 * Github: [@Freitasbtw](https://github.com/Freitasbtw)
-* LinkedIn: [@Freitasbtw](https://linkedin.com/in/Freitasbtw)
+* LinkedIn: [@freitasbtw](https://linkedin.com/in/freitasbtw)
